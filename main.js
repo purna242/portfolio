@@ -1,4 +1,10 @@
 /*===== MENU SHOW =====*/ 
+/*var typed = new Typed(".l-header", {
+    strings: ["D.Purna Chandra Reddy","Coder"],
+    typeSpeed: 100,
+    backSpeed: 60,
+    loop: true
+});*/
 const showMenu = (toggleId, navId) =>{
     const toggle = document.getElementById(toggleId),
     nav = document.getElementById(navId)
